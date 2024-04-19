@@ -1,7 +1,6 @@
 - 👋 Hi, I’m charles Ngugi
 - 👀 I’m interested in DevOps,SRE stuff and cyber security.
-- 🌱 I’m currently learning python for use in automation.
-- I’m looking to collaborate on any python projects.
+- I’m looking to collaborate on any python and devops related projects.
 - 📫 How to reach me email: charlesngugi023@gmail.com, Mobile - +254 704661895, Skype ID - live:.cid.2e693c013bc93235
 
 <!---
