@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👀 I’m interested in DevOps,SRE and cyber security.<br>- I’m looking to collaborate on any python and DevOps related projects.<br>- 📫 How to reach me email: charlesngugi023@gmail.com, Mobile - +254 704661895
+- DevSecOps/Cloud/Engineer.<br>- Open to collaborate on any python and DevSecOps related projects.<br>- 📫Email: charlesngugi023@gmail.com, Mobile - +254 704661895
 
 
 ## 🌐 Socials:
